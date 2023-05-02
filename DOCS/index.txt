@@ -1,0 +1,7 @@
+DOCS:
+
+javadoc: conte la especificacio de les classes i les seves funcions. es pot visualitzar al obrir el fitxer index.html
+
+Manual d'usuari.pdf: Document amb les especificacions i el mode d'us del programa.
+
+Relacio de classes.pdf: document amb el treball de cada membre del grup.

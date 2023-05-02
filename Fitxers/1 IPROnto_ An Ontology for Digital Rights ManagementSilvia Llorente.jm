@@ -1,0 +1,16 @@
+The main objective of this paper is to describe a specific ontology we have developed in
+our group. It is an attempt to specify in a semantic way the domain of Intellectual Property
+Rights (IPR). Since we are working in the area of e-commerce of multimedia content, we
+often talk about Digital Rights Management (DRM), that better express the scope, instead
+of IPR, that is a broader term.
+The paper puts the ontology (IPROnto) into context by establishing the basis on which
+we have made our developments. We have been always trying to not re-invent the wheel by
+basing our work on existing activities, models and specifications.
+IPROnto has two basic views: A static and a dynamic one. We start, in section 3 with
+the description of the static view. Since the ontology is rather complex and complete, we
+concentrate in the paper only on some aspects of it. In particular, we describe the concepts
+of IPR Agreement, including Contract and License (section 4), and some specific rights,
+such as Explotation or Moral rights (section 5). The IPROnto LegalEntity element is then
+described in section 6, before briefly entering into the dynamic view, that defines a content
+life cycle for DRM and an example of sub-ontology.
+The paper finalises with the identification of the next steps and some conclusions.

@@ -1,0 +1,29 @@
+Domini:
+
+
+
+StopWords: directori amb les stopwords en castella catala i angles.
+
+Bool.java: implementacio de la clase Bool
+
+BSTree.java: implementacio de la clase BST
+
+Contingut.java: implementacio de la clase Contingut
+
+CtrlDocument.java: implementacio de la clase CtrlDocument
+
+Document.java:d riverimplementacio de la clase Document
+
+Expbool.java: implementacio de la clase Expbool
+
+Frase.java: implementacio de la clase Frase.
+
+Pair.java: implementacio de la clase Pair
+
+Paraula.java: implementacio de la clase Paraula
+
+TfidfCalc.java: implementacio de la clase TfidfCalc
+
+VectorPesos.java: implementacio de la clase VectorPesos
+
+CtrlDomini.java: implementacio de la clase CtrlDomini

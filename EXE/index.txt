@@ -1,0 +1,7 @@
+out: directori amb tots els .class del projecte.
+
+GestorDocuments.jar: executable del projecte.
+
+exe.bat: script per executar el programa des de Windows.
+
+JocsDeProves: document amb els jocs de proves del projecte.

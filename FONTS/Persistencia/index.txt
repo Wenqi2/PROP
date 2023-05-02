@@ -1,0 +1,9 @@
+Persistencia:
+
+DocumentGuardat.java: implementacio de la clase DocumentGuardat
+
+ctrlPersistencia.java: implementacio de la clase ctrlPersistencia
+
+txtFormat.java: implementacio de la clase txtFormat
+
+xmlFormat.java: implementacio de la clase xmlFormat

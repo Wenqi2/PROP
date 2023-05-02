@@ -1,0 +1,14 @@
+FONTS:
+
+
+Domini: directori amb el codi de la part de domini.
+
+lib: directori amb les llibreries utilitzades.
+
+Persistencia: directori amb el codi de la part de persistencia.
+
+Presentacio: directori amb el codi de la part de presentacio.
+
+CompiladorAplicacion.bat: arxiu per crear el executables del projecte.
+
+makefile: arxiu per crear el executable del projecte.

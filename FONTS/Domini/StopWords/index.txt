@@ -1,0 +1,8 @@
+StopWords:
+
+
+castella.txt: Document amb les stopwords en castella
+
+catala.txt: Document amb les stopwords en catala
+
+english.txt: Document amb les stopwords en english

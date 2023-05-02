@@ -1,0 +1,126 @@
+Presentacio:
+
+
+CtrlPresentacio.java: implementacio de la clase CtrlPresentacio
+
+CtrlPresentacio.form: part grafica de la clase CtrlPresentacio
+
+Presentacio.java: implementacio de la clase Presentacio
+
+Presentacio.form: part grafica de la clase Presentacio
+
+vistaAltaDoc.java: implementacio de la clase vistaAltaDoc
+
+vistaAltaDoc.form: part grafica de la clase vistaAltaDoc
+
+vistaBaixaDoc.java: implementacio de la clase vistaBaixaDoc
+
+vistaBaixaDoc.form: part grafica de la clase vistaBaixaDoc
+
+vistaConsulta.java: implementacio de la clase vistaConsulta
+
+vistaConsulta.form: part grafica de la clase vistaConsulta
+
+vistaConsultaAutorsPrefix.java: implementacio de la clase vistaConsultaAutorsPrefix
+
+vistaConsultaAutorsPrefix.form: part grafica de la clase vistaConsultaAutorsPrefix
+
+vistaConsultaContingut.java: implementacio de la clase vistaConsultaContingut
+
+vistaConsultaContingut.form: part grafica de la clase vistaConsultaContingut
+
+vistaConsultaCopiarDoc.java: implementacio de la clase vistaConsultaCopiarDoc
+
+vistaConsultaCopiarDoc.form: part grafica de la clase vistaConsultaCopiarDoc
+
+vistaConsultaDocSemblants.java: implementacio de la clase vistaConsultaDocSemblants
+
+vistaConsultaDocSemblants.form: part grafica de la clase vistaConsultaDocSemblants
+
+vistaConsultaExpBool.java: implementacio de la clase vistaConsultaExpBool
+
+vistaConsultaExpBool.form: part grafica de la clase vistaConsultaExpBool
+
+vistaConsultaExportar.java: implementacio de la clase vistaConsultaExportar
+
+vistaConsultaExportar.form: part grafica de la clase vistaConsultaExportar
+
+vistaConsultaTitolAutor.java: implementacio de la clase vistaConsultaTitolAutor
+
+vistaConsultaTitolAutor.form: part grafica de la clase vistaConsultaTitolAutor
+
+vistaCopiar.java: implementacio de la clase vistaCopiar
+
+vistaCopiar.form: part grafica de la clase vistaCopiar
+
+vistaCtrlDocument.java: implementacio de la clase vistaCtrlDocument
+
+vistaCtrlDocument.form: part grafica de la clase vistaCtrlDocument
+
+vistaEliminaExp.java: implementacio de la clase vistaEliminaExp
+
+vistaEliminaExp.form: part grafica de la clase vistaEliminaExp
+
+vistaGuardaExp.java: implementacio de la clase vistaGuardaExp
+
+vistaGuardaExp.form: part grafica de la clase vistaGuardaExp
+
+vistaImportar.java: implementacio de la clase vistaImportar
+
+vistaImportar.form: part grafica de la clase vistaImportar
+
+vistaImprimirExp.java: implementacio de la clase vistaImprimirExp
+
+vistaImprimirExp.form: part grafica de la clase vistaImprimirExp
+
+vistaIntrodueixExp.java: implementacio de la clase vistaIntrodueixExp
+
+vistaIntrodueixExp.form: part grafica de la clase vistaIntrodueixExp
+
+vistaModifAutor.java: implementacio de la clase vistaModifAutor
+
+vistaModifAutor.form: part grafica de la clase vistaModifAutor
+
+vistaModifContingut.java: implementacio de la clase vistaModifContingut
+
+vistaModifContingut.form: part grafica de la clase vistaModifContingut
+
+vistaModifTitul.java: implementacio de la clase vistaModifTitul
+
+vistaModifTitul.form: part grafica de la clase vistaModifTitul
+
+vistaModificaDoc.java: implementacio de la clase vistaModificaDoc
+
+vistaModificaDoc.form: part grafica de la clase vistaModificaDoc
+
+vistaModificaExp.java: implementacio de la clase vistaModificaExp
+
+vistaModificaExp.form: part grafica de la clase vistaModificaExp
+
+vistaPrincipal.java: implementacio de la clase vistaPrincipal
+
+vistaPrincipal.form: part grafica de la clase vistaPrincipal
+
+vistaResultatConsultaAP.java: implementacio de la clase vistaResultatConsultaAP
+
+vistaResultatConsultaAP.form: part grafica de la clase vistaResultatConsultaAP
+
+vistaResultatConsultaC.java: implementacio de la clase vistaResultatConsultaC
+
+vistaResultatConsultaC.form: part grafica de la clase vistaResultatConsultaC
+
+vistaResultatConsultaDS.java: implementacio de la clase vistaResultatConsultaDS
+
+vistaResultatConsultaDS.form: part grafica de la clase vistaResultatConsultaDS
+
+vistaResultatConsultaTA.java: implementacio de la clase vistaResultatConsultaTA
+
+vistaResultatConsultaTA.form: part grafica de la clase vistaResultatConsultaTA
+
+vistaResultatIntrodueixExp.java: implementacio de la clase vistaResultatIntrodueixExp
+
+vistaResultatIntrodueixExp.form: part grafica de la clase vistaResultatIntrodueixExp
+
+vistaResultatUtilitzarExp.java: implementacio de la clase vistaResultatUtilitzarExp
+
+vistaResultatUtilitzarExp.form: part grafica de la clase vistaResultatUtilitzarExp

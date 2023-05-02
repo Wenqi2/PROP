@@ -1,0 +1,14 @@
+Background
+
+Google Scholar (GS) has been noted for its ability to search broadly for important references in the literature. Gehanno et al. recently examined GS in their study: ‘Is Google scholar enough to be used alone for systematic reviews?’ In this paper, we revisit this important question, and some of Gehanno et al.’s other findings in evaluating the academic search engine.
+
+Methods
+
+The authors searched for a recent systematic review (SR) of comparable size to run search tests similar to those in Gehanno et al. We selected Chou et al. (2013) contacting the authors for a list of publications they found in their SR on social media in health. We queried GS for each of those 506 titles (in quotes ""), one by one. When GS failed to retrieve a paper, or produced too many results, we used the allintitle: command to find papers with the same title.
+
+Results
+
+Google Scholar produced records for ~95% of the papers cited by Chou et al. (n=476/506). A few of the 30 papers that were not in GS were later retrieved via PubMed and even regular Google Search. But due to its different structure, we could not run searches in GS that were originally performed by Chou et al. in PubMed, Web of Science, Scopus and PsycINFO®. Identifying 506 papers in GS was an inefficient process, especially for papers using similar search terms.
+
+Conclusions
+Has Google Scholar improved enough to be used alone in searching for systematic reviews? No. GS’ constantly-changing content, algorithms and database structure make it a poor choice for systematic reviews. Looking for papers when you know their titles is a far different issue from discovering them initially. Further research is needed to determine when and how (and for what purposes) GS can be used alone. Google should provide details about GS’ database coverage and improve its interface (e.g., with semantic search filters, stored searching, etc.). Perhaps then it will be an appropriate choice for systematic reviews. 
