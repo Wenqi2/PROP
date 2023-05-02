@@ -1,0 +1,15 @@
+GestorDeDocuments:
+
+
+DOCS: directori amb la documentacio del projecte
+
+EXE: directori amb els executables del projecte
+
+Fonts: directori amb el codi font del projecte
+
+Grup23.3.txt: document de text amb la informacio dels estudiants responsables del projecte
+
+README.md: arxiu amb una breu descripcio de com utilitzar el projecte
+
+
+
